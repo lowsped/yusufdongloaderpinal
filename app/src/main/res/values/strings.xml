@@ -1,0 +1,14 @@
+<!--
+  ~ Copyright (C) 2015 Baidu, Inc. All Rights Reserved.
+  -->
+<resources >
+    <string name="app_name" >Youtube downloader</string >
+    <string name="navigation_drawer_open" >Open navigation drawer</string >
+    <string name="navigation_drawer_close" >Close navigation drawer</string >
+    <string name="banner_ad_unit_id">ca-app-pub-2664431082951215/7238748230</string>
+    <string name="action_settings">about</string>
+    <string name="more">more aps</string>
+    <string name="about">"Thank's To:\n" \n" " Allah S.W.T \n" "My   Family\n" "Google.inc\n" "And\n" "all you have been using my application\n"
+    \n" "Copyright@2017\n" "PEMIKIR VERSI BARU\n"
+    </string>
+</resources >
